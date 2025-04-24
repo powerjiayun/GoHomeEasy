@@ -2,7 +2,7 @@
 
 ## [English](README.md) | 中文
 
-**GoHomeEasy** 是一个基于 Cloudflare Workers 的 Shadowsocks 订阅管理工具，专为 **没有公网 IP 的家庭宽带用户** 设计，能够在外部网络访问家庭局域网。
+**GoHomeEasy** 是一个基于 Cloudflare Workers 的 Shadowsocks/Clash 订阅管理工具，专为 **没有公网 IP 的家庭宽带用户** 设计，能够在外部网络访问家庭局域网。
 
 它利用 **Lucky提供的内网穿透**，并结合订阅自动更新，使用户可以在 **任何地方远程访问家中的 Shadowsocks 服务器**，无需手动频繁更换动态IP地址和端口。
 
